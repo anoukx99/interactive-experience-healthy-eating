@@ -1,7 +1,7 @@
 /* Processing code used for Designing Interactive Experiences
  The code communicates with an Arduino which reads RFID tags. 
  Based on the tag, a movie starts to play in this file. 
- Written by Anouk de Graaf 
+ Written by Anouk
  17-06-2021*/
 
 //Connect to the Serial port
